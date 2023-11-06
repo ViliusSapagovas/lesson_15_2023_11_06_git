@@ -1,4 +1,5 @@
-def add_numbers(a: int, b: int) -> int:
+def add_digits(a: int, b: int) -> int:
     return a + b
 
-print(add_numbers(2,5)) 
+print(add_digits(2,5)) 
+# change add_numers to add_digits
